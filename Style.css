@@ -61,6 +61,38 @@ section{
     height: calc(100vh - 80px);
 }
 
+
+@font-face{
+    font-family: biennale-bold;
+    src: url(/Fonts/biennale-bold.otf);
+}
+
+@font-face{
+    font-family: biennale-regular;
+    src: url(/Fonts/biennale-regular.otf);
+}
+
+@font-face{
+    font-family: arial;
+    src: url(/Fonts/arial.ttf);
+}
+
+@font-face{
+    font-family: arial italic;
+    src: url(/Fonts/arial-italic.ttf);
+}
+
+@font-face{
+    font-family: arial bolt;
+    src: url(/Fonts/arial-bold.ttf);
+}
+
+@font-face{
+    font-family: arial bolt italic;
+    src: url(/Fonts/arial-bold-italic.ttf);
+}
+
+
 @media (max-width: 952px){
     .enlace{
         padding-left: 28px;
